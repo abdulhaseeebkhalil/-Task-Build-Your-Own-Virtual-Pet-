@@ -53,7 +53,7 @@ let pet = {
     }
   };
   
-  // Start the interaction
-  alert("Meet your pet " + pet.name + "! Type: " + pet.type + ". Age: " + pet.age + ". Happiness: " + pet.happiness + "/100. Hunger: " + pet.hunger + "/100.");
-  pet.interact();
+  // // Start the interaction
+  // alert("Meet your pet " + pet.name + "! Type: " + pet.type + ". Age: " + pet.age + ". Happiness: " + pet.happiness + "/100. Hunger: " + pet.hunger + "/100.");
+  // pet.interact();
   
